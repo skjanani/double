@@ -15,7 +15,7 @@ n1=ja.nextDouble();
 b=n/n1;
 System.out.println(a);
 System.out.println(b);*/
-a=n*n1;
+a=n1-n;
 System.out.println(a);
 	}
 
